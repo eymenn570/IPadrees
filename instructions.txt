@@ -1,0 +1,1 @@
+First, install the package and type the following into Termux:
